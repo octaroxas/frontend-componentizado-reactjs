@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto desenvolvido no bootcamp fullstack DIO, se tratando de uma lista de compras onde ao inserir um novo item o valor final é calculado automaticamente
+Para isso foi utilizado o hook useState e useEffect para atualiar a interface a cada novo item
 
 ## Available Scripts
 
