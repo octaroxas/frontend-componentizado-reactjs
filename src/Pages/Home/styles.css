@@ -1,0 +1,25 @@
+.home-container {
+    background-color: #fff;
+    max-width: 40rem;
+    margin: auto;
+    padding: 2rem;
+    border-radius: 5px;
+    margin-top: 3rem;
+    box-shadow: rgb(218, 215, 215) 0px 0px 20px;
+}
+
+.total {
+    background-color: rgb(219, 236, 242);
+    text-align: center;
+    padding: .5rem;
+    border-radius: 10px;
+    font-weight: bold;
+    max-width: 50%;
+    margin: 1rem 1rem 1rem 0 ;
+}
+
+.list-itens {
+    background-color: rgb(219, 236, 242);
+    padding: 1rem;
+    border-radius: 10px;
+}

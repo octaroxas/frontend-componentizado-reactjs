@@ -1,0 +1,11 @@
+.navbar-container {
+    background-color: rgb(76, 43, 226);
+}
+
+.navbar {
+    max-width: 80%;
+    margin: auto;
+    padding: 1rem;
+    color: white;
+    font-weight: bold;
+}

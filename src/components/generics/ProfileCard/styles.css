@@ -1,0 +1,21 @@
+.profile {
+  border-radius: 100%;
+  width: 10rem;
+}
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50rem;
+  max-width: 100%;
+  border: 2px solid #e2e2e2;
+  border-radius: 15px;
+  padding: 2rem;
+  background-color: #fff;
+  margin-bottom: 1rem;
+}
+
+.card-article {
+  margin-left: 2rem;
+}
